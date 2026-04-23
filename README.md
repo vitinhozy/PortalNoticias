@@ -1,4 +1,4 @@
-# 📰 Portal de Notícias - Documentação Completa
+# 📰 Portal de Notícias
 
 ## 🎯 Visão Geral
 
