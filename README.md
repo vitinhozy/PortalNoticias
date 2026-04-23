@@ -658,5 +658,5 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para de
 
 ---
 
-**Desenvolvido por Victor Castro, João Victor Lima, Maikon Douglas e Lucas com React + TypeScript**
+**Desenvolvido por Victor Castro, João Victor Lima, Maikon Douglas e Lucas Gomes, com React + TypeScript**
 
